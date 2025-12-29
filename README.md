@@ -22,4 +22,4 @@ This repository documents my learning journey in Web3 development and communnity
 
 **Transaction Hash:**  
 0x37ca0fff95dd601f03bda03430ace9bbc968a6d8c7c033f8c853152302bf1115
-**Status:** ✅ Completed 1
+**Status:** ✅ Completed 
